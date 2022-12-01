@@ -41,7 +41,7 @@
     "esm": "^3.2.25",
     "husky": "^4.2.5",
     "lint-staged": "^10.3.0",
-    "parcel-bundler": "^1.12.4"
+    "parcel-bundler": "^1.12.5"
   },
   "husky": {
     "hooks": {
